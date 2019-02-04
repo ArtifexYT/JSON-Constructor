@@ -13,8 +13,10 @@ npm install json-constructor
 npm install json-constructor --save
 ```
 
-# Documentation
+# Documentation (WIP)
 If you wish to use this package, then head over to the [documentation](https://json-constructor.ml) to view the full documentation.
+
+*Please note that the domain is inactive and the documenation pages need to be built with GitBook.*
 
 # Bugs
 If you have found a bug and would like to report it, please head over to the [GitHub repository](https://github.com/ArtifexYT/JSON-Constructor) and open an issue.
