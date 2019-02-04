@@ -1,0 +1,26 @@
+{
+    "name": "json-constructor",
+    "version": "2.3.5",
+    "description": "This is a tool for simple JSON file creation.",
+    "main": "index.js",
+    "scripts": {
+        "install": "npm install"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ArtifexYT/JSON-Constructor"
+    },
+    "keywords": [
+        "json", "tool", "library", "api"
+    ],
+    "author": "dannyizlit",
+    "license": "MIT",
+    "dependencies": {
+        "fs-nextra": "^0.3.8",
+        "path": "^0.12.7",
+        "fs-extra": "^7.0.1"
+    },
+    "devDependencies": {
+        "fs": "^0.0.2"
+    }
+}
